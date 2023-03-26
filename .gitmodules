@@ -1,0 +1,6 @@
+[submodule "northwind_frontEnd"]
+	path = northwind_frontEnd
+	url = git@github.com:minhson0506/northwind_frontEnd.git
+[submodule "northwind_backEnd"]
+	path = northwind_backEnd
+	url = git@github.com:minhson0506/northwind_backEnd.git
